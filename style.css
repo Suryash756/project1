@@ -1,0 +1,37 @@
+body{
+    text-align:center;
+    background-image: url("https://t3.ftcdn.net/jpg/02/10/76/76/360_F_210767622_IS78HxepGZXkjU9kmCcbSsboTrex3PVB.jpg");
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    font-size:50px;
+    color:black;
+    font-weight:bold;
+    text-decoration: underline;
+
+}
+input{
+    width:200px;
+    border:solid;
+    border-color:black;
+    font-weight:bold;
+}
+button{
+    width:80px;
+    font-size:20px;
+    background-color: red;;
+    font-weight:bold;
+    border:solid;
+}
+p{
+    font-size:20px;
+    font-weight:bold;
+}
+canvas{
+    border:solid;
+    border-color:black;
+    border-style:ridge;
+    border-width:5px;
+    background-color:white;
+}
